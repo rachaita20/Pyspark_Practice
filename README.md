@@ -36,6 +36,10 @@
 ### Common Use Cases
 Data Processing, Data Analysis, Machine Learning, Real-Time Data Processing, Graph Computation
 
+### What is PySpark?
+[PySpark](https://spark.apache.org/docs/latest/api/python/index.html) is the Python API for Apache Spark. It allows Python developers to harness the power of Apache Spark's distributed computing capabilities through a Python-friendly interface. PySpark enables users to perform large-scale data processing, machine learning, and real-time stream processing using Python.
+
+
 ## Pre-requisites
 1. Install PySpark
    ```
