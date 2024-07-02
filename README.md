@@ -36,3 +36,11 @@
 ### Common Use Cases
 Data Processing, Data Analysis, Machine Learning, Real-Time Data Processing, Graph Computation
 
+## Pre-requisites
+1. Install PySpark
+   ```
+   pip install pyspark
+   ```
+2. [Install Java for mac](https://www.java.com/en/download/)
+   
+
